@@ -1,0 +1,2 @@
+# sokudo
+Another sokudo game.
