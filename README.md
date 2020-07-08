@@ -1,2 +1,2 @@
-# sokudo
-Another sokudo game.
+# sudoku
+Another sudoku game.
